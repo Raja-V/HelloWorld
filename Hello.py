@@ -1,7 +1,7 @@
 import os
 
 def hello():
-	for i in range(10):
+	for i in range(1,11,1):
 		print("Hello World .. ", i)
 	
 	return
