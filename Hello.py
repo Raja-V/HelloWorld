@@ -1,7 +1,7 @@
 import os
 
 def hello():
-	for i in range(1,6,1):
+	for i in range(1,6,1)
 		print("Hello World .. ", i)
 	
 	return
